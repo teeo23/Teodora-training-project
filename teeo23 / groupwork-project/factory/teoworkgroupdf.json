@@ -1,0 +1,9 @@
+{
+	"name": "teoworkgroupdf",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b2485a2f-b9a8-42b7-befe-519b4c227aec",
+		"tenantId": "dfd18751-45a9-4a06-a6f1-37fcf88024a0"
+	}
+}

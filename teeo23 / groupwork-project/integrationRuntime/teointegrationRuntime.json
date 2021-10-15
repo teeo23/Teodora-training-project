@@ -1,0 +1,6 @@
+{
+	"name": "teointegrationRuntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
