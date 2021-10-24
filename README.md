@@ -1,1 +1,1 @@
-# groupwork-project for data engineering training academy 2021
+ individual groupwork-project for data engineering training academy 2021
