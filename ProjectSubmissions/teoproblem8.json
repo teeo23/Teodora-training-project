@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "first_name": "Georgia",
+    "last_name": "Harrington",
+    "address" : [{
+        "line1": "113",
+        "line2": "Sesame Street",
+        "city": "London",
+        "state": "NY",
+        "zip": 123123,
+        "country": "UK",
+        "type_id": "passport"}],
+    "contact_details" : [{
+        "detail": "mobile number",
+        "number": "07551234567"},
+        {"detail": "home number",
+          "number" : "020344556677"}]
+
+  },
+
+  {
+    "id": 2,
+    "first_name": "Ellie",
+    "last_name": "Frost",
+    "address" : [{ 
+      "line1": "123",
+      "line2": "Fake Street",
+      "city": "Guildford",
+      "state": "Surrey",
+      "zip": 231231,
+      "country": "UK",
+      "type_id": "drivers license"},
+      {"line1": "88",
+        "line2": "Oxford Street",
+        "city": "London",
+        "state": "Greater London",
+        "zip": 290290,
+        "country": "UK",
+        "type_id": "passport"}],
+    "contact_details" : {
+      "detail": "mobile number",
+      "number": "07731232345"}
+  },
+
+  {
+    "id": 3,
+    "first_name": "Teodora",
+    "last_name": "Dumitru",
+    "address" : {
+      "line1": "80",
+      "line2": "Fake Lane",
+      "city": "London",
+      "state": "CA",
+      "zip": 456321,
+      "country": "UK",
+      "type_id": "passport"},
+    "contact_details" : {
+      "detail": "mobile number",
+      "number": "07453673950"}
+  }
+]
